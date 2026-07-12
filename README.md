@@ -2,7 +2,7 @@
 
 青山不改，绿水长流。
 
-我主要使用 Python 和 Go，目前正在系统学习软件工程与后端开发，目标是成长为一名能够独立设计、开发和交付系统的开发工程师。
+我主要使用 Python 和 Go，正在系统学习软件工程与后端开发。
 
 当前重点方向是 AI 应用、Agent 开发和后端工程，并持续学习云原生、微服务与分布式系统。
 
@@ -16,7 +16,7 @@
 
 ## Tech Stack
 
-`Python` `Go` `TypeScript` `Linux` `Docker` `Git` `GitHub Actions`
+`Python` `Go` `Linux` `Docker` `Git`
 
 ## Projects
 
